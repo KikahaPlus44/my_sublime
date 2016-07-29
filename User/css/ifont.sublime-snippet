@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+@include font-type(\$${1:*}-font, ${2:size}px, ${3:height}px, ${4:spacing}px, #${0:color});
+  ]]></content>
+    <tabTrigger>ifont</tabTrigger>
+    
+</snippet> 

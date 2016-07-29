@@ -1,0 +1,4 @@
+{
+	 "glue_userpath" : "/bin/bash",
+	 "glue_shellpath": "/usr/local/bin/zsh"
+}
